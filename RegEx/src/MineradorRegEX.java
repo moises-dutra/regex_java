@@ -5,7 +5,7 @@ public class MineradorRegEX {
 		
 		RegEx meuRegEx = new RegEx();
 		
-		meuRegEx.avaliar("defina aqui o nome do arquivo a ser mineirado", "defina aqui sua regex");
+		meuRegEx.avaliar("defina aqui o nome do arquivo a ser minerado", "defina aqui sua regex");
 
 	}
 
